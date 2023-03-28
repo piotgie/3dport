@@ -4,8 +4,6 @@ import {styles} from '../styles';
 import {navLinks} from '../constants'
 import { logo, menu, close } from '../assets';
 
-//38;46
-
 const Navbar = () => {
 
   const [active, setActive] = useState('')
